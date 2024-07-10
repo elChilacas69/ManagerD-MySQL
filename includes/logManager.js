@@ -1,4 +1,3 @@
-// server/includes/logManager.js
 const dbGateway = require('./databaseGateway');
 
 module.exports = {
